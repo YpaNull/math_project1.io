@@ -14,7 +14,7 @@ Model training:
 
 For the CNN-based license plate detection model, we will use YOLO (You Only Look Once) and Faster R-CNN (Faster Region-based Convolutional Neural Network) architectures. These two architectures have shown excellent performance in object detection tasks and have been widely used in the literature. We will experiment with both architectures to compare their performance on our dataset.
 
-optimization:
+Optimization:
 
 We will optimize the model using a combination of hyperparameter tuning, experiment with different hyperparameters, such as learning rate, batch size, and regularization, to find the best set of parameters that maximize the accuracy and efficiency of the model. 
 
