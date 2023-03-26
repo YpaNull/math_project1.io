@@ -12,7 +12,7 @@ The 433 images with bounding box annotations which is collected on kaggle will b
 
 Model training:
 
-For the CNN-based license plate detection model, we will use YOLO (You Only Look Once) and Faster R-CNN (Faster Region-based Convolutional Neural Network) architectures. These two architectures have shown excellent performance in object detection tasks and have been widely used in the literature. We will experiment with both architectures to compare their performance on our dataset.
+For the CNN-based license plate detection model, we will use Convolutional Neural Network architectures. These two architectures have shown excellent performance in object detection tasks and have been widely used in the literature. We will experiment with both architectures to compare their performance on our dataset.
 
 Optimization:
 
